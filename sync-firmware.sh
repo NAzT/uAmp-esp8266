@@ -1,0 +1,2 @@
+rsync -avz .pioenvs/espresso_lite_v2/spiffs.bin  root@cmmc.io:/var/www/html/just.spiffs.bin --verbose
+rsync -avz .pioenvs/espresso_lite_v2/firmware.bin  root@cmmc.io:/var/www/html/just.firmware.bin --verbose

@@ -1,0 +1,4 @@
+{"ssid":"","password":"","name":"","ap_password":"","rest_path":"","hour":"18",
+  "minute":"0","rest_params":"", "ifttt_key": "", "ifttt_event": "", "mqtt_host": "",
+  "mqtt_port": "", "mqtt_client_id": "client_id", "battery_path": "",
+  "mqtt_username": "username", "mqtt_password": "", "service": "IFTTT", "factory_upgrade": "NO" }
